@@ -14,7 +14,7 @@ from aiogram.types import (
     ReplyKeyboardRemove,
 )
 
-from config import TOKEN, kjh2ru_url, ru2kjh_url, kjh_tts_url
+from config import TOKEN, kjh2ru_url, ru2kjh_url
 
 form_router = Router()
 
